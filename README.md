@@ -27,6 +27,8 @@ Check out [Deep Hunt](https://www.deephunt.in) - a curated monthly AI newsletter
   
   Brendan J Frey
 
+  [Video](https://www.youtube.com/watch?v=QJLQBSQJEus)
+
 - The Trouble with Bias
   
   Kate Crawford
@@ -39,7 +41,7 @@ Check out [Deep Hunt](https://www.deephunt.in) - a curated monthly AI newsletter
   
   Pieter Abbeel
 
-  [Slides](https://www.dropbox.com/s/fdw7q8mx3x4wr0c/2017_12_xx_NIPS-keynote-final.pdf)
+  [Slides](https://www.dropbox.com/s/fdw7q8mx3x4wr0c/2017_12_xx_NIPS-keynote-final.pdf) · [Video](https://www.youtube.com/watch?v=po9z_tMuEwE) · Code
 
 - Learning State Representations
   
@@ -49,6 +51,8 @@ Check out [Deep Hunt](https://www.deephunt.in) - a curated monthly AI newsletter
   
   Yee Whye Teh
 
+  [Video](https://www.youtube.com/watch?v=9saauSBgmcQ)
+
 
 ## Tutorials
 
@@ -56,7 +60,7 @@ Check out [Deep Hunt](https://www.deephunt.in) - a curated monthly AI newsletter
 
   Nando de Freitas · Scott Reed · Oriol Vinyals
 
-  Slides · Video · Code
+  Slides · [Video](https://www.youtube.com/watch?v=YJnddoa8sHk) · Code
 
 - Reinforcement Learning with People
 
