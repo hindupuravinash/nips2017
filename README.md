@@ -110,3 +110,75 @@ Check out [Deep Hunt](https://www.deephunt.in) - a curated monthly AI newsletter
 
 
 ## WiML
+
+- Bayesian machine learning: Quantifying uncertainty and robustness at scale
+
+  Tamara​ ​Broderick​
+
+  Slides · Video · Code
+
+- Towards Communication-Centric Multi-Agent Deep Reinforcement Learning for Guarding a Territory
+
+  Aishwarya​ ​Unnikrishnan
+
+  Slides · Video · Code
+
+- Graph convolutional networks can encode three-dimensional genome architecture in deep learning models for genomics
+
+  Peyton​ ​Greenside​
+
+  Slides · Video · Code
+
+- Machine Learning for Social Science
+
+  Hannah​ ​Wallach​
+
+  Slides · Video · Code
+
+- Fairness Aware Recommendations
+  
+  Palak​ ​Agarwal​
+
+  Slides · Video · Code
+
+- Reinforcement Learning with a Corrupted Reward Channel
+
+  Victoria​ ​Krakivna​
+
+  Slides · Video · Code
+
+- Improving health-care: challenges and opportunities for reinforcement learning
+
+  Joelle​ ​Pineau​
+
+  Slides · Video · Code
+
+- Harnessing Adversarial Attacks on Deep Reinforement Learning for Improving Robustness
+
+  Zhenyi​ ​Tang​
+
+  Slides · Video · Code
+
+- Time-Critical Machine Learning
+
+  Nina​ ​Mishra​
+
+  Slides · Video · Code  
+
+- A General Framework for Evaluating Callout Mechanisms in Repeated Auctions
+
+  Hoda​ ​Heidari​
+
+  Slides · Video · Code
+
+- Engaging Experts: A Dirichlet Process Approach to Divergent Elicited Priors in Social Science
+
+  Sarah​ ​Bouchat​
+
+  Slides · Video · Code
+
+- Representation Learning in Large Attributed Graphs
+
+  Nesreen​ ​K​ ​Ahmed​
+
+  Slides · Video · Code      
