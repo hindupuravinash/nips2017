@@ -1,8 +1,12 @@
+# NIPS 2017
+
+<p align="center"><img width="50%" src="nips_2017.jpg" /></p>
+
 This year's Neural Information Processing Systems (NIPS) 2017 conference held at Long Beach Convention Center, Long Beach California has been the biggest ever! Here's a list of resources and slides of all invited talks, tutorials and workshops.
 
 Contributions are welcome. You can add links via pull requests or create an issue to lemme know something I missed or to start a discussion. If you know the speakers, please ask them to upload slides online!
 
-Check out [Deep Hunt](https://www.deephunt.in) - a curated monthly AI newsletter for this repo as a blog post and follow me on [Twitter](https://www.twitter.com/hindupuravinash).
+Check out [Deep Hunt](https://www.deephunt.in) - a curated monthly AI newsletter for this repo as a [blog post](https://deephunt.in/nips-2017-e580ebc9c7b2) and follow me on [Twitter](https://www.twitter.com/hindupuravinash).
 
 ## Contents
 
