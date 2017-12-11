@@ -41,7 +41,9 @@ Check out [Deep Hunt](https://www.deephunt.in) - a curated monthly AI newsletter
 
 - **The Unreasonable Effectiveness of Structure**
   
-  John Platt
+  Lise Getoor
+  
+  Slides · [Video](https://www.youtube.com/watch?v=t4k5LKCpboc)
 
 - **Deep Learning for Robotics**
   
