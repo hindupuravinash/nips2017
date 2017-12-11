@@ -116,6 +116,43 @@ Check out [Deep Hunt](https://www.deephunt.in) - a curated monthly AI newsletter
               
 ## Workshops
 
+- ### [ML Systems Workshop @ NIPS 2017](http://learningsys.org/nips17/index.html)
+    
+  Aparna Lakshmiratan · Sarah Bird · Siddhartha Sen · Christopher Ré · Li Erran Li · Joseph Gonzalez · Daniel Crankshaw
+
+  - A distributed execution engine for emerging AI applications
+    
+    Ion Stoica
+
+  - The Case for Learning Database Indexes    
+  
+  - [Federated Multi-Task Learning](http://learningsys.org/nips17/assets/slides/mocha-NIPS.pdf)
+    
+    Virginia Smith
+
+  - [Accelerating Persistent Neural Networks at Datacenter Scale](http://learningsys.org/nips17/assets/slides/brainwave-nips17.pdf)
+
+    Daniel Lo
+
+  - [DLVM: A modern compiler framework for neural network DSLs](http://learningsys.org/nips17/assets/slides/dlvm-nips17.pdf)
+
+    Richard Wei · Lane Schwartz · Vikram Adve
+
+  - [Machine Learning for Systems and Systems for Machine Learning](http://learningsys.org/nips17/assets/slides/dean-nips17.pdf)
+
+    Jeff Dean
+
+  - [Creating an Open and Flexible ecosystem for AI models with ONNX](http://learningsys.org/nips17/assets/slides/ONNX-workshop.pdf)
+
+    Sarah Bird · Dmytro Dzhulgakov 
+
+  - [NSML: A Machine Learning Platform That Enables You to Focus on Your Models](http://learningsys.org/nips17/assets/slides/nsml_slides.pdf)
+
+     Nako Sung
+
+  - [DAWNBench: An End-to-End Deep Learning Benchmark and Competition](http://learningsys.org/nips17/assets/slides/dawn-nips17.pptx)
+
+    Cody Coleman
 
 ## WiML
 
