@@ -37,7 +37,7 @@ Check out [Deep Hunt](https://www.deephunt.in) - a curated monthly AI newsletter
   
   Kate Crawford
   
-  Slides · [Video](https://www.youtube.com/watch?v=fMym_BKWQzk) · Code
+  [Video](https://www.youtube.com/watch?v=fMym_BKWQzk)
 
 - **The Unreasonable Effectiveness of Structure**
   
