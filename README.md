@@ -73,7 +73,7 @@ Check out [Deep Hunt](https://www.deephunt.in) - a curated monthly AI newsletter
 
   Nando de Freitas · Scott Reed · Oriol Vinyals
 
-  Slides · [Video](https://www.youtube.com/watch?v=YJnddoa8sHk) · Code
+  [Slides](https://docs.google.com/presentation/d/e/2PACX-1vQMZsWfjjLLz_wi8iaMxHKawuTkdqeA3Gw00wy5dBHLhAkuLEvhB7k-4LcO5RQEVFzZXfS6ByABaRr4/pub?slide=id.p) · [Video](https://www.youtube.com/watch?v=YJnddoa8sHk) · Code
 
 - **Reinforcement Learning with People**
 
