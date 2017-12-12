@@ -61,6 +61,11 @@ Check out [Deep Hunt](https://www.deephunt.in) - a curated monthly AI newsletter
 
   [Video](https://www.youtube.com/watch?v=9saauSBgmcQ)
 
+- **AlphaZero - Mastering Games without human knowledge**
+
+  David Silver
+  
+  [Video](https://www.youtube.com/watch?v=A3ekFcZ3KNw)
 
 ## Tutorials
 
