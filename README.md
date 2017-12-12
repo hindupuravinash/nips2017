@@ -36,6 +36,8 @@ Check out [Deep Hunt](https://www.deephunt.in) - a curated monthly AI newsletter
 - **The Trouble with Bias**
   
   Kate Crawford
+  
+  [Video](https://www.youtube.com/watch?v=fMym_BKWQzk)
 
 - **The Unreasonable Effectiveness of Structure**
   
