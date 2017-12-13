@@ -163,6 +163,42 @@ Check out [Deep Hunt](https://www.deephunt.in) - a curated monthly AI newsletter
 
     Cody Coleman
 
+- ### [Bayesian Deep Learning](http://bayesiandeeplearning.org/)
+    
+  Yarin Gal · José Miguel Hernández-Lobato · Christos Louizos · Andrew G Wilson · Diederik P. (Durk) Kingma · Zoubin Ghahramani · Kevin P Murphy · Max Welling
+
+  - [Why Aren't You Using Probabilistic Programming?](http://dustintran.com/talks/Tran_Probabilistic_Programming.pdf)
+    
+    Dustin Tran
+
+  - Automatic Model Selection in BNNs with Horseshoe Priors  
+
+    Finale Doshi
+  
+  - Deep Bayes for Distributed Learning, Uncertainty Quantification and Compression
+    
+    Max Welling 
+
+  - Stochastic Gradient Descent as Approximate Bayesian Inference  
+
+    Matt Hoffman
+  
+  - [Recent Advances in Autoregressive Generative Models](https://drive.google.com/file/d/11CNWY5op_J5PvP02J9g8tciAom-MW9MZ/view)
+    
+    Nal Kalchbrenner
+
+  - Deep Kernel Learning  
+
+    Russ Salakhutdinov
+  
+  - Bayes by Backprop
+    
+    Meire Fortunato
+
+  - How do the Deep Learning layers converge to the Information Bottleneck limit by Stochastic Gradient Descent?  
+
+    Naftali (Tali) Tishby 
+  
 ## WiML
 
 - **Bayesian machine learning: Quantifying uncertainty and robustness at scale**
@@ -235,4 +271,4 @@ Check out [Deep Hunt](https://www.deephunt.in) - a curated monthly AI newsletter
 
   Nesreen​ ​K​ ​Ahmed​
 
-  Slides · Video · Code      
+  [Slides](https://www.slideshare.net/NesreenAhmed2/representation-learning-in-large-attributed-graphs) · Video · Code      
