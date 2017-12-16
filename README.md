@@ -22,41 +22,41 @@ Check out [Deep Hunt](https://www.deephunt.in) - a curated monthly AI newsletter
 ## Invited Talks
 
 - **Powering the next 100 years**
-  
+
   John Platt
 
   Slides · Video · Code
 
 - **Why AI Will Make it Possible to Reprogram the Human Genome**
-  
+
   Brendan J Frey
 
   [Video](https://www.youtube.com/watch?v=QJLQBSQJEus)
 
 - **The Trouble with Bias**
-  
+
   Kate Crawford
-  
+
   [Video](https://www.youtube.com/watch?v=fMym_BKWQzk)
 
 - **The Unreasonable Effectiveness of Structure**
-  
+
   Lise Getoor
-  
+
   Slides · [Video](https://www.youtube.com/watch?v=t4k5LKCpboc)
 
 - **Deep Learning for Robotics**
-  
+
   Pieter Abbeel
 
   [Slides](https://www.dropbox.com/s/fdw7q8mx3x4wr0c/2017_12_xx_NIPS-keynote-final.pdf) · [Video](https://www.youtube.com/watch?v=po9z_tMuEwE) · Code
 
 - **Learning State Representations**
-  
+
   Yael Niv
 
 - **On Bayesian Deep Learning and Deep Bayesian Learning**
-  
+
   Yee Whye Teh
 
   [Video](https://www.youtube.com/watch?v=9saauSBgmcQ)
@@ -64,7 +64,7 @@ Check out [Deep Hunt](https://www.deephunt.in) - a curated monthly AI newsletter
 - **AlphaZero - Mastering Games without human knowledge**
 
   David Silver
-  
+
   [Video](https://www.youtube.com/watch?v=A3ekFcZ3KNw)
 
 ## Tutorials
@@ -79,7 +79,7 @@ Check out [Deep Hunt](https://www.deephunt.in) - a curated monthly AI newsletter
 
   Emma Brunskill
 
-  Slides · Video · Code
+  Slides · [Video](https://www.youtube.com/watch?v=TqT9nIx27Eg) · Code
 
 - **A Primer on Optimal Transport**
 
@@ -122,21 +122,21 @@ Check out [Deep Hunt](https://www.deephunt.in) - a curated monthly AI newsletter
   Michael Bronstein · Joan Bruna · arthur szlam · Xavier Bresson · Yann LeCun
 
   [Slides](https://www.dropbox.com/s/zdosxw3nc3f1p2r/NIPS-GDL.pdf) · Video · Code
-              
+  ​            
 ## Workshops
 
 - ### [ML Systems Workshop @ NIPS 2017](http://learningsys.org/nips17/index.html)
-    
+
   Aparna Lakshmiratan · Sarah Bird · Siddhartha Sen · Christopher Ré · Li Erran Li · Joseph Gonzalez · Daniel Crankshaw
 
   - A distributed execution engine for emerging AI applications
-    
+
     Ion Stoica
 
   - The Case for Learning Database Indexes    
-  
+
   - [Federated Multi-Task Learning](http://learningsys.org/nips17/assets/slides/mocha-NIPS.pdf)
-    
+
     Virginia Smith
 
   - [Accelerating Persistent Neural Networks at Datacenter Scale](http://learningsys.org/nips17/assets/slides/brainwave-nips17.pdf)
@@ -164,35 +164,35 @@ Check out [Deep Hunt](https://www.deephunt.in) - a curated monthly AI newsletter
     Cody Coleman
 
 - ### [Bayesian Deep Learning](http://bayesiandeeplearning.org/)
-    
+
   Yarin Gal · José Miguel Hernández-Lobato · Christos Louizos · Andrew G Wilson · Diederik P. (Durk) Kingma · Zoubin Ghahramani · Kevin P Murphy · Max Welling
 
   - [Why Aren't You Using Probabilistic Programming?](http://dustintran.com/talks/Tran_Probabilistic_Programming.pdf)
-    
+
     Dustin Tran
 
   - Automatic Model Selection in BNNs with Horseshoe Priors  
 
     Finale Doshi
-  
+
   - Deep Bayes for Distributed Learning, Uncertainty Quantification and Compression
-    
+
     Max Welling 
 
   - Stochastic Gradient Descent as Approximate Bayesian Inference  
 
     Matt Hoffman
-  
+
   - [Recent Advances in Autoregressive Generative Models](https://drive.google.com/file/d/11CNWY5op_J5PvP02J9g8tciAom-MW9MZ/view)
-    
+
     Nal Kalchbrenner
 
   - Deep Kernel Learning  
 
     Russ Salakhutdinov
-  
+
   - Bayes by Backprop
-    
+
     Meire Fortunato
 
   - How do the Deep Learning layers converge to the Information Bottleneck limit by Stochastic Gradient Descent?  
@@ -200,17 +200,17 @@ Check out [Deep Hunt](https://www.deephunt.in) - a curated monthly AI newsletter
     Naftali (Tali) Tishby 
 
 - ### [Learning with Limited Labeled Data: Weak Supervision and Beyond](https://lld-workshop.github.io/)
-    
+
   Isabelle Augenstein · Stephen Bach · Eugene Belilovsky · Matthew Blaschko · Christoph Lampert · Edouard Oyallon · Emmanouil Antonios Platanios · Alexander Ratner · Christopher Ré
 
   - [Welcome Note](https://lld-workshop.github.io/slides/opening.pdf)
-    
+
   - [Tales from fMRI: Learning from limited labeled data](https://lld-workshop.github.io/slides/gael_varoquaux_lld.pdf)   
-    
+
     Gaël Varoquaux 
-  
+
   - [Learning from Limited Labeled Data (But a Lot of Unlabeled Data)](https://lld-workshop.github.io/slides/tom_mitchell_lld.pdf)
-    
+
     Tom Mitchell
 
   - [Light Supervision of Structured Prediction Energy Networks](https://lld-workshop.github.io/slides/andrew_mccallum_lld.pdf)
@@ -242,7 +242,7 @@ Check out [Deep Hunt](https://www.deephunt.in) - a curated monthly AI newsletter
     Alan Ritter
 
   - [Closing Remarks](https://lld-workshop.github.io/slides/closing.pdf)
-  
+
 ## WiML
 
 - **Bayesian machine learning: Quantifying uncertainty and robustness at scale**
@@ -270,7 +270,7 @@ Check out [Deep Hunt](https://www.deephunt.in) - a curated monthly AI newsletter
   Slides · Video · Code
 
 - **Fairness Aware Recommendations**
-  
+
   Palak​ ​Agarwal​
 
   Slides · Video · Code
