@@ -198,6 +198,50 @@ Check out [Deep Hunt](https://www.deephunt.in) - a curated monthly AI newsletter
   - How do the Deep Learning layers converge to the Information Bottleneck limit by Stochastic Gradient Descent?  
 
     Naftali (Tali) Tishby 
+
+- ### [Learning with Limited Labeled Data: Weak Supervision and Beyond](https://lld-workshop.github.io/)
+    
+  Isabelle Augenstein · Stephen Bach · Eugene Belilovsky · Matthew Blaschko · Christoph Lampert · Edouard Oyallon · Emmanouil Antonios Platanios · Alexander Ratner · Christopher Ré
+
+  - [Welcome Note](https://lld-workshop.github.io/slides/opening.pdf)
+    
+  - [Tales from fMRI: Learning from limited labeled data](https://lld-workshop.github.io/slides/gael_varoquaux_lld.pdf)   
+    
+    Gaël Varoquaux 
+  
+  - [Learning from Limited Labeled Data (But a Lot of Unlabeled Data)](https://lld-workshop.github.io/slides/tom_mitchell_lld.pdf)
+    
+    Tom Mitchell
+
+  - [Light Supervision of Structured Prediction Energy Networks](https://lld-workshop.github.io/slides/andrew_mccallum_lld.pdf)
+
+    Andrew McCallum
+
+  - [Forcing Neural Link Predictors to Play by the Rules](https://lld-workshop.github.io/slides/sebastian_riedel_lld.pdf)
+
+    Sebastian Riedel
+
+  - [Panel: Limited Labeled Data in Medical Imaging](https://lld-workshop.github.io/slides/radiology_panel_lld.pdf)
+
+    Daniel Rubin · Matt Lungren · Ina Fiterau
+
+  - [Sample and Computationally Efficient Active Learning Algorithms](https://lld-workshop.github.io/slides/nina_balcan_lld.pdf)
+
+    Nina Balcan
+
+  - [That Doesn't Make Sense! A Case Study in Actively Annotating Model Explanations](https://lld-workshop.github.io/slides/sameer_singh_lld.pdf)
+
+     Sameer Singh
+
+  - [Overcoming Limited Data with GANs](https://lld-workshop.github.io/slides/ian_goodfellow_lld.pdf)
+
+    Ian Goodfellow
+
+  - [What’s so Hard About Natural Language Understanding?](https://lld-workshop.github.io/slides/alan_ritter_lld.pdf)
+
+    Alan Ritter
+
+  - [Closing Remarks](https://lld-workshop.github.io/slides/closing.pdf)
   
 ## WiML
 
