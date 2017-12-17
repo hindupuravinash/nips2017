@@ -233,7 +233,7 @@ Check out [Deep Hunt](https://www.deephunt.in) - a curated monthly AI newsletter
 
      Sameer Singh
 
-  - [Overcoming Limited Data with GANs](https://lld-workshop.github.io/slides/ian_goodfellow_lld.pdf)
+  - [Overcoming Limited Data with GANs](http://www.iangoodfellow.com/slides/2017-12-09-label.pdf)
 
     Ian Goodfellow
 
@@ -242,6 +242,60 @@ Check out [Deep Hunt](https://www.deephunt.in) - a curated monthly AI newsletter
     Alan Ritter
 
   - [Closing Remarks](https://lld-workshop.github.io/slides/closing.pdf)
+
+## Symposiums
+
+- ### [Interpretable Machine Learning](http://interpretable.ml/)
+    
+  Andrew G Wilson · Jason Yosinski · Patrice Simard · Rich Caruana · William Herlands
+
+  - The role of causality for interpretability.
+    
+    Bernhard Scholkopf 
+
+    [Slides](http://s.interpretable.ml/nips_interpretable_ml_2017_Bernhard_Schoelkopf.pdf) · [Video](https://www.youtube.com/watch?v=9C3RvDs_hHw)
+
+  - Interpretable Discovery in Large Image Data Sets
+    
+    Kiri Wagstaff
+
+    [Slides](http://s.interpretable.ml/nips_interpretable_ml_2017_kiri_wagstaff.pdf) · [Video](https://www.youtube.com/watch?v=_K2wVfi_KDM)
+
+  - The (hidden) Cost of Calibration.
+    
+    Bernhard Scholkopf 
+
+    [Slides](http://s.interpretable.ml/nips_interpretable_ml_2017_Kilian_Weinberger.pdf) · [Video](https://www.youtube.com/watch?v=fDtQQ9GlSJY)
+
+  - Panel Discussion
+    
+    Hanna Wallach, Kiri Wagstaff, Suchi Saria, Bolei Zhou, and Zack Lipton. Moderated by Rich Caruana.
+
+    [Video](https://www.youtube.com/watch?v=kruwzfvKt3w)
+
+  - Interpretability for AI safety
+    
+    Victoria Krakovna
+
+    [Slides](http://s.interpretable.ml/nips_interpretable_ml_2017_victoria_Krakovna.pdf) · [Video](https://www.youtube.com/watch?v=3HzIutdlpho)
+
+  - Manipulating and Measuring Model Interpretability.
+    
+    Jenn Wortman Vaughan
+
+    [Slides](http://s.interpretable.ml/nips_interpretable_ml_2017_jenn_wortman_vaughan.pdf) · [Video](https://www.youtube.com/watch?v=8ZoL-cKRf2o)
+
+ - Debugging the Machine Learning Pipeline.
+    
+    Jerry Zhu
+
+    [Slides](http://s.interpretable.ml/nips_interpretable_ml_2017_jerry_zhu.pdf) · [Video](https://www.youtube.com/watch?v=XO2281l_JVw)
+
+  - Panel Debate and Followup Discussion
+    
+    Yann LeCun, Kilian Weinberger, Patrice Simard, and Rich Caruana.
+
+    [Video](https://www.youtube.com/watch?v=2hW05ZfsUUo)
 
 ## WiML
 
