@@ -61,12 +61,6 @@ Check out [Deep Hunt](https://www.deephunt.in) - a curated monthly AI newsletter
 
   [Video](https://www.youtube.com/watch?v=9saauSBgmcQ)
 
-- **AlphaZero - Mastering Games without human knowledge**
-
-  David Silver
-
-  [Video](https://www.youtube.com/watch?v=A3ekFcZ3KNw)
-
 ## Tutorials
 
 - **Deep Learning: Practice and Trends**
@@ -121,7 +115,7 @@ Check out [Deep Hunt](https://www.deephunt.in) - a curated monthly AI newsletter
 
   Michael Bronstein · Joan Bruna · arthur szlam · Xavier Bresson · Yann LeCun
 
-  [Slides](https://www.dropbox.com/s/zdosxw3nc3f1p2r/NIPS-GDL.pdf) · Video · Code
+  [Slides](https://www.dropbox.com/s/zdosxw3nc3f1p2r/NIPS-GDL.pdf) · [Video](https://www.youtube.com/watch?v=LvmjbXZyoP0) · Code
   ​            
 ## Workshops
 
@@ -296,6 +290,37 @@ Check out [Deep Hunt](https://www.deephunt.in) - a curated monthly AI newsletter
     Yann LeCun, Kilian Weinberger, Patrice Simard, and Rich Caruana.
 
     [Video](https://www.youtube.com/watch?v=2hW05ZfsUUo)
+
+- ### [Deep Reinforcement Learning](https://sites.google.com/view/deeprl-symposium-nips2017/home)
+    
+  Pieter Abbeel · Yan Duan · David Silver · Satinder Singh · Junhyuk Oh · Rein Houthooft
+
+  - Mastering Games with Deep Reinforcement Learning
+    
+    David Silver
+
+    [Video](https://www.youtube.com/watch?v=A3ekFcZ3KNw)
+
+  - Reproducibility in Deep Reinforcement Learning and Beyond
+    
+    Joelle Pineau
+
+    Slides · Video
+
+  - Neural Map: Structured Memory for Deep RL
+    
+    Ruslan Salakhutdinov
+
+    [Slides](http://www.cs.cmu.edu/~rsalakhu/NIPS2017_StructureMemoryForDeepRL.pdf)
+
+  - Deep Exploration Via Randomized Value Functions
+    
+    Ben Van Roy
+
+    Slides · Video
+  - Artificial Intelligence Goes All-In
+    
+    Michael Bowling    
 
 ## WiML
 
