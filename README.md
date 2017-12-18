@@ -25,7 +25,7 @@ Check out [Deep Hunt](https://www.deephunt.in) - a curated monthly AI newsletter
 
   John Platt
 
-  Slides · Video · Code
+  Slides · [Video](https://www.youtube.com/watch?v=HL60wgrT67k) · Code
 
 - **Why AI Will Make it Possible to Reprogram the Human Genome**
 
@@ -91,7 +91,7 @@ Check out [Deep Hunt](https://www.deephunt.in) - a curated monthly AI newsletter
 
   Neil D Lawrence
 
-  [Slides](http://inverseprobability.com/talks/lawrence-nips17/deep-probabilistic-modelling-with-gaussian-processes.html) · Video · Code    
+  [Slides](http://inverseprobability.com/talks/lawrence-nips17/deep-probabilistic-modelling-with-gaussian-processes.html) · [Video](https://www.youtube.com/watch?v=i4jhOH7o3pk) · Code    
 
 - **Fairness in Machine Learning**
 
