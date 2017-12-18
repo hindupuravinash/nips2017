@@ -237,6 +237,58 @@ Check out [Deep Hunt](https://www.deephunt.in) - a curated monthly AI newsletter
 
   - [Closing Remarks](https://lld-workshop.github.io/slides/closing.pdf)
 
+- ### [Advances in Approximate Bayesian Inference](http://approximateinference.org/)
+
+  Francisco Ruiz · Stephan Mandt · Cheng Zhang · James McInerney · Dustin Tran · Tamara Broderick · Michalis Titsias · David Blei · Max Welling
+
+  - [Learning priors, likelihoods, or posteriors](http://approximateinference.org/2017/schedule/Murray2017.pdf)
+
+    Iain Murray
+
+  - Learning Implicit Generative Models Using Differentiable Graph Tests
+
+    Josip Djolonga 
+
+  - [Gradient Estimators for Implicit Models)](http://approximateinference.org/2017/schedule/Li2017.pdf)
+
+    Yingzhen Li
+
+  - Variational Autoencoders for Recommendation
+
+    Dawen Liang
+
+  - [Approximate Inference in Industry: Two Applications at Amazon](http://approximateinference.org/2017/schedule/Archambeau2017.pdf)
+
+    Cedric Archambeau
+
+  - [Variational Inference based on Robust Divergences](http://approximateinference.org/2017/schedule/Futami2017.pdf)
+
+    Futoshi Futami
+
+  - [Adversarial Sequential Monte Carlo](http://approximateinference.org/2017/schedule/Kempinska2017.pdf)
+
+    Kira Kempinska
+
+  - [Scalable Logit Gaussian Process Classification](http://approximateinference.org/2017/schedule/Wenzel2017.pdf)
+
+    Florian Wenzel
+
+  - [Variational inference in deep Gaussian processes](http://approximateinference.org/2017/schedule/Damianou2017.pdf)
+
+    Andreas Damianou
+
+  - [Taylor Residual Estimators via Automatic Differentiation](http://approximateinference.org/2017/schedule/Miller2017.pdf)
+
+    Andrew Miller
+
+  - [Differential privacy and Bayesian learning](http://approximateinference.org/2017/schedule/Honkela2017.pdf)
+    
+    Antti Honkela
+
+  - Frequentist Consistency of Variational Bayes
+    
+    Yixin Wang
+
 ## Symposiums
 
 - ### [Interpretable Machine Learning](http://interpretable.ml/)
