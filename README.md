@@ -73,7 +73,7 @@ Check out [Deep Hunt](https://www.deephunt.in) - a curated monthly AI newsletter
 
   Nando de Freitas · Scott Reed · Oriol Vinyals
 
-  [Slides](https://docs.google.com/presentation/d/e/2PACX-1vQMZsWfjjLLz_wi8iaMxHKawuTkdqeA3Gw00wy5dBHLhAkuLEvhB7k-4LcO5RQEVFzZXfS6ByABaRr4/pub?slide=id.p) · [Video](https://www.youtube.com/watch?v=YJnddoa8sHk) · Code
+  [Slides](https://drive.google.com/file/d/1SuwiICLERd7SfYo3FiqNG0tCEBUjKcT7/view) · [Video](https://www.youtube.com/watch?v=YJnddoa8sHk) · Code
 
 - **Reinforcement Learning with People**
 
@@ -285,7 +285,7 @@ Check out [Deep Hunt](https://www.deephunt.in) - a curated monthly AI newsletter
 
     [Slides](http://s.interpretable.ml/nips_interpretable_ml_2017_jenn_wortman_vaughan.pdf) · [Video](https://www.youtube.com/watch?v=8ZoL-cKRf2o)
 
- - Debugging the Machine Learning Pipeline.
+  - Debugging the Machine Learning Pipeline.
     
     Jerry Zhu
 
