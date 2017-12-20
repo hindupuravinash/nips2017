@@ -273,7 +273,7 @@ Check out [Deep Hunt](https://www.deephunt.in) - a curated monthly AI newsletter
 
     Florian Wenzel
 
-  - [Variational inference in deep Gaussian processes](http://approximateinference.org/2017/schedule/Damianou2017.pdf)
+  - [Variational inference in deep Gaussian processes](http://adamian.github.io/talks/Damianou_NIPS17.pdf)
 
     Andreas Damianou
 
@@ -288,6 +288,74 @@ Check out [Deep Hunt](https://www.deephunt.in) - a curated monthly AI newsletter
   - Frequentist Consistency of Variational Bayes
     
     Yixin Wang
+
+- ### [Deep Learning at Supercomputer Scale](https://supercomputersfordl2017.github.io/)
+
+  Erich Elsen · Danijar Hafner · Zak Stone · Brennan Saeta
+
+  - [Generalization Gap](https://supercomputersfordl2017.github.io/Presentations/NIPS2017_SharpMinima.pdf)
+
+    Nitish Keskar
+
+  - [Closing the Generalization Gap](https://supercomputersfordl2017.github.io/Presentations/TrainLongerPresentation.pdf)
+
+    Itay Hubara · Elad Hoffer 
+
+  - [Don’t Decay the Learning Rate, Increase the Batchsize)](https://supercomputersfordl2017.github.io/Presentations/DLSC_talk.pdf)
+
+    Sam Smith
+
+  - [ImageNet in 1 Hour](https://supercomputersfordl2017.github.io/Presentations/NIPS-workshop-priya-final.pptx)
+
+    Priya Goyal
+
+  - [ImageNet is the new MNIST](https://supercomputersfordl2017.github.io/Presentations/ImageNetNewMNIST.pdf)
+  
+    Chris Ying  
+
+  - [KFAC and Natural Gradients](https://supercomputersfordl2017.github.io/Presentations/K-FAC.pdf)
+
+    Matthew Johnson & Daniel Duckworth
+
+  - [Neumann Optimizer](https://supercomputersfordl2017.github.io/Presentations/NeumannOptimizerFinal.pdf)
+
+    Shankar Krishnan
+
+  - [Evolutionary Strategies](https://supercomputersfordl2017.github.io/Presentations/Salimans_ES.pdf)
+
+    Tim Salimans
+
+  - [Learning Device Placement](https://supercomputersfordl2017.github.io/Presentations/DevicePlacementWithDeepRL.pdf)
+
+    Azalia Mirhoseini
+
+  - [Scaling and Sparsity](https://supercomputersfordl2017.github.io/Presentations/scaling-is-predictable.pdf)
+
+    Gregory Diamos
+
+  - [Small World Network Architectures](https://supercomputersfordl2017.github.io/Presentations/SmallWorldNetworkArchitectures.pdf)
+
+    Scott Gray
+
+  - [Scalable RL & AlphaGo](https://supercomputersfordl2017.github.io/Presentations/DeepReinforcementLearningatScale.pdf)
+    
+    Timothy Lillicrap
+
+  - [Scaling Deep Learning to 15 PetaFlops](https://supercomputersfordl2017.github.io/Presentations/ThorstenLargeScaleDeepLearning.pdf)
+    
+    Thorsten Kurth
+
+  - [Scalable Silicon Compute](https://supercomputersfordl2017.github.io/Presentations/SimonKnowlesGraphCore.pdf)
+
+    Simon Knowles
+
+  - [Practical Scaling Techniques](https://supercomputersfordl2017.github.io/Presentations/practical_scaling_techniques_v6.pdf)
+
+    Ujval Kapasi
+
+  - Designing for Supercompute-Scale Deep Learning
+
+    Michael James
 
 ## Symposiums
 
