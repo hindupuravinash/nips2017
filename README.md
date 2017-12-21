@@ -357,6 +357,62 @@ Check out [Deep Hunt](https://www.deephunt.in) - a curated monthly AI newsletter
 
     Michael James
 
+- ### [Machine Learning Challenges as a Research Tool](http://ciml.chalearn.org/ciml2017)
+
+  Isabelle Guyon · Evelyne Viegas · Sergio Escalera · Jacob D Abernethy
+
+  - [RAMP platform](https://drive.google.com/file/d/12CwwCtCLDkp92MurS1aEDXV8YcXJNGJH/view)
+
+    Balázs Kégl
+
+  - [Automatic evaluation of chatbots](https://docs.google.com/a/chalearn.org/viewer?a=v&pid=sites&srcid=Y2hhbGVhcm4ub3JnfHdvcmtzaG9wfGd4OjU0YjZiMmM4ZDVhMTA1ZjA)
+
+    Varvara Logacheva (speaker) · Mikhail Burtsev
+
+  - [ TrackML)](https://drive.google.com/file/d/1ifBM6PCpIUFSnI_TBiBB5YeCx6Kguj1Q/view)
+
+    David Rousseau
+
+  - [Data science bowl](https://docs.google.com/a/chalearn.org/viewer?a=v&pid=sites&srcid=Y2hhbGVhcm4ub3JnfHdvcmtzaG9wfGd4OjYxMzI1ZDY4ZWE4Yzc4NzQ)
+
+    Drew Farris
+
+  - [CrowdAI](https://docs.google.com/a/chalearn.org/viewer?a=v&pid=sites&srcid=Y2hhbGVhcm4ub3JnfHdvcmtzaG9wfGd4OmRlOWMwYmI5MGQ1NGNh)
+  
+    Mohanty Sharada
+
+  - Kaggle platform
+
+    Ben Hamner
+
+  - [Project Malmo, Minecraft](https://docs.google.com/a/chalearn.org/viewer?a=v&pid=sites&srcid=Y2hhbGVhcm4ub3JnfHdvcmtzaG9wfGd4OmZiYTAyYmY3NjhiOGQ0OA)
+
+    Katja Hofmann
+
+  - [Project Alloy](https://docs.google.com/a/chalearn.org/viewer?a=v&pid=sites&srcid=Y2hhbGVhcm4ub3JnfHdvcmtzaG9wfGd4OjdiNzIwMWMwMWY5ZjlhMjY)
+
+    Laura Seaman
+
+  - [Education and public service](https://docs.google.com/a/chalearn.org/viewer?a=v&pid=sites&srcid=Y2hhbGVhcm4ub3JnfHdvcmtzaG9wfGd4OjQ1NWM4ODNkNjQzMjgxNTQ)
+
+    Jonathan C. Stroud
+
+  - [AutoDL (Google challenge)](https://docs.google.com/a/chalearn.org/viewer?a=v&pid=sites&srcid=Y2hhbGVhcm4ub3JnfHdvcmtzaG9wfGd4OjJiMTU0MTlmZjY5NGZiOGI)
+
+    Olivier Bousquet
+
+  - [Scoring rule markets](https://docs.google.com/a/chalearn.org/viewer?a=v&pid=sites&srcid=Y2hhbGVhcm4ub3JnfHdvcmtzaG9wfGd4OjNlNWRlMDdjYTgwNDFkZTA)
+
+    Rafael Frongillo · Bo Waggoner
+
+  - [ENCODE-DREAM challenge](https://docs.google.com/a/chalearn.org/viewer?a=v&pid=sites&srcid=Y2hhbGVhcm4ub3JnfHdvcmtzaG9wfGd4OjZjYzdiZGZkMWI1MjliNzk)
+    
+    Akshay Balsubramani
+
+  - [Codalab platform](https://docs.google.com/a/chalearn.org/viewer?a=v&pid=sites&srcid=Y2hhbGVhcm4ub3JnfHdvcmtzaG9wfGd4OjVmY2U0NTk3M2RhYTRlZGY)
+    
+    Evelyne Viegas · Sergio Escalera · Isabelle Guyon
+
 ## Symposiums
 
 - ### [Interpretable Machine Learning](http://interpretable.ml/)
