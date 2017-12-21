@@ -115,7 +115,7 @@ Check out [Deep Hunt](https://www.deephunt.in) - a curated monthly AI newsletter
 
   Michael Bronstein · Joan Bruna · arthur szlam · Xavier Bresson · Yann LeCun
 
-  [Slides](https://www.dropbox.com/s/zdosxw3nc3f1p2r/NIPS-GDL.pdf) · [Video](https://www.youtube.com/watch?v=LvmjbXZyoP0) · Code
+  [Slides](http://geometricdeeplearning.com/slides/NIPS-GDL.pdf) · [Video](https://www.youtube.com/watch?v=LvmjbXZyoP0) · Code
   ​            
 ## Workshops
 
