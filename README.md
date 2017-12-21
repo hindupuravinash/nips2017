@@ -369,7 +369,7 @@ Check out [Deep Hunt](https://www.deephunt.in) - a curated monthly AI newsletter
 
     Varvara Logacheva (speaker) · Mikhail Burtsev
 
-  - [ TrackML)](https://drive.google.com/file/d/1ifBM6PCpIUFSnI_TBiBB5YeCx6Kguj1Q/view)
+  - [TrackML](https://drive.google.com/file/d/1ifBM6PCpIUFSnI_TBiBB5YeCx6Kguj1Q/view)
 
     David Rousseau
 
@@ -412,6 +412,34 @@ Check out [Deep Hunt](https://www.deephunt.in) - a curated monthly AI newsletter
   - [Codalab platform](https://docs.google.com/a/chalearn.org/viewer?a=v&pid=sites&srcid=Y2hhbGVhcm4ub3JnfHdvcmtzaG9wfGd4OjVmY2U0NTk3M2RhYTRlZGY)
     
     Evelyne Viegas · Sergio Escalera · Isabelle Guyon
+
+- ### [Bayesian optimization for science and engineering](https://bayesopt.github.io/index.html)
+
+  Ruben Martinez-Cantin · José Miguel Hernández-Lobato · Javier Gonzalez
+
+  - Towards Safe Bayesian Optimization
+
+    Andreas Krause 
+
+  - Learning to learn without gradient descent by gradient descent
+
+    Yutian Chen
+
+  - [Scaling Bayesian Optimization in High Dimensions](https://bayesopt.github.io/slides/2017/bayesopt_2017_jegelka.pdf)
+
+    Stefanie Jegelka
+
+  - [Neuroadaptive Bayesian Optimization - Implications for Cognitive Sciences](https://bayesopt.github.io/slides/2017/Lorenz_NIPS_Workshop_2017.pdf)
+
+    Romy Lorenz
+
+  - [Knowledge Gradient Methods for Bayesian Optimization](https://bayesopt.github.io/slides/2017/BayesOptWorkshopFrazier.pdf)
+  
+    Peter Frazier 
+
+  - [Quantifying and reducing uncertainties on sets under Gaussian Process priors](https://bayesopt.github.io/slides/2017/NIPS_BOws_Ginsbourger_09_12_2017.pdf)
+
+    David Ginsbourger
 
 ## Symposiums
 
