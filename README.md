@@ -441,6 +441,42 @@ Check out [Deep Hunt](https://www.deephunt.in) - a curated monthly AI newsletter
 
     David Ginsbourger
 
+- ### [(Almost) 50 shades of Bayesian Learning: PAC-Bayesian trends and insights](https://bguedj.github.io/nips2017/50shadesbayesian.html)
+
+  Benjamin Guedj · Pascal Germain · Francis Bach
+
+  - Dimension-free PAC-Bayesian Bounds - [Part 1](https://bguedj.github.io/nips2017/pdf/catoni_nips2017_1.pdf) [Part 2](https://bguedj.github.io/nips2017/pdf/catoni_nips2017_2.pdf)
+
+    Olivier Catoni
+
+  - [A Tight Excess Risk Bound via a Unified PAC-Bayesian-Rademacher-Shtarkov-MDL Complexity](https://bguedj.github.io/nips2017/pdf/grunwald_nips2017.pdf)
+
+    Peter Grünwald
+
+  - [A Tutorial on PAC-Bayesian Theory](https://bguedj.github.io/nips2017/pdf/laviolette_nips2017.pdf)
+
+    François Laviolette
+
+  - [Some recent advances on Approximate Bayesian Computation techniques](https://bguedj.github.io/nips2017/pdf/marin_nips2017.pdf)
+
+    Jean-Michel Marin
+
+  - [A PAC-Bayesian Approach to Spectrally-Normalized Margin Bounds for Neural Networks](https://bguedj.github.io/nips2017/pdf/neyshabur_nips2017.pdf)
+  
+    Behnam Neyshabur
+
+  - [Deep Neural Networks: From Flat Minima to Numerically Nonvacuous Generalization Bounds via PAC-Bayes](https://bguedj.github.io/nips2017/pdf/roy_nips2017.pdf)
+
+    Dan Roy
+ 
+ - [A Strongly Quasiconvex PAC-Bayesian Bound](https://bguedj.github.io/nips2017/pdf/seldin_nips2017.pdf)
+  
+    Yevgeny Seldin
+
+  - [Distribution Dependent Priors for Stable Learning](https://bguedj.github.io/nips2017/pdf/shawe-taylor_nips2017.pdf)
+
+    John Shawe-Taylor
+
 ## Symposiums
 
 - ### [Interpretable Machine Learning](http://interpretable.ml/)
