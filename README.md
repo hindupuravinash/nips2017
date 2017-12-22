@@ -522,9 +522,68 @@ Check out [Deep Hunt](https://www.deephunt.in) - a curated monthly AI newsletter
     Ben Van Roy
 
     Slides · Video
+  
   - Artificial Intelligence Goes All-In
     
     Michael Bowling    
+
+- ### [Kinds of intelligence: types, tests and meeting the needs of society](http://www.kindsofintelligence.org/)
+    
+  José Hernández-Orallo · Zoubin Ghahramani · Tomaso A Poggio · Adrian Weller · Matthew Crosby
+
+  - Opening remarks
+    
+    [Slides](https://intelligence.webs.upv.es/slides/NIPS-symposium-opening.pdf)
+
+  - Why the mind evolved: the evolution of navigation in real landscapes
+    
+    Lucia Jacob
+
+    Slides · Video
+
+  - The distinctive intelligence of young children: Insights for AI from cognitive development
+    
+    Alison Gopnik
+
+    [Slides](https://intelligence.webs.upv.es/slides/Gopnik-NIPS.pptx)
+
+  - Learning from first principles
+    
+    Demis Hassabis
+
+    Slides · Video
+  
+  - Types of intelligence: why human-like AI is important
+    
+    Josh Tenenbaum   
+
+  - The road to artificial general intelligence
+    
+    Gary Marcus
+
+    [Slides](https://intelligence.webs.upv.es/slides/Gopnik-NIPS.pptx)
+
+  - Video games and the road to collaborative AI
+    
+    Katja Hofmann
+
+    [Slides](https://intelligence.webs.upv.es/slides/2017-12-07-Katja-Hofmann-symposium-kinds-of-intelligence.pdf) · Video
+  
+  - Fair questions
+    
+    Cynthia Dwork
+
+    [Slides](https://intelligence.webs.upv.es/slides/NIPS2017-Dwork.pdf)
+ 
+  - States, corporations, thinking machines: artificial agency and artificial intelligence
+    
+    David Runciman
+
+    Slides · Video
+  
+  - Closing remarks
+    
+    [Slides](https://intelligence.webs.upv.es/slides/NIPS-symposium-closing.pdf)  
 
 ## WiML
 
