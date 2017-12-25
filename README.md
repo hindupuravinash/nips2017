@@ -91,7 +91,7 @@ Check out [Deep Hunt](https://www.deephunt.in) - a curated monthly AI newsletter
 
   Neil D Lawrence
 
-  [Slides](http://inverseprobability.com/talks/lawrence-nips17/deep-probabilistic-modelling-with-gaussian-processes.html) · [Video](https://www.youtube.com/watch?v=i4jhOH7o3pk) · Code    
+  [Slides](http://inverseprobability.com/talks/lawrence-nips17/deep-probabilistic-modelling-with-gaussian-processes.html) · [Video](https://www.youtube.com/watch?v=RAiPlfohjJo) · Code    
 
 - **Fairness in Machine Learning**
 
