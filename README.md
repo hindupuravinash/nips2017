@@ -54,6 +54,8 @@ Check out [Deep Hunt](https://www.deephunt.in) - a curated monthly AI newsletter
 - **Learning State Representations**
 
   Yael Niv
+  
+  [Video](https://www.youtube.com/watch?v=FhOwFDGm0d4)
 
 - **On Bayesian Deep Learning and Deep Bayesian Learning**
 
